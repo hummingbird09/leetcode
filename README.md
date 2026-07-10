@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hummingbird09/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/hummingbird09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/hummingbird09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hummingbird09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hummingbird09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hummingbird09/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/hummingbird09/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
