@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/hummingbird09/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/hummingbird09/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/hummingbird09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hummingbird09/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/hummingbird09/leetcode/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hummingbird09/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
