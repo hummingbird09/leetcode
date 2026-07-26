@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hummingbird09/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/hummingbird09/leetcode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/hummingbird09/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hummingbird09/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/hummingbird09/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hummingbird09/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hummingbird09/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hummingbird09/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/hummingbird09/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hummingbird09/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hummingbird09/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
