@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/hummingbird09/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hummingbird09/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hummingbird09/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hummingbird09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hummingbird09/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hummingbird09/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hummingbird09/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/hummingbird09/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hummingbird09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hummingbird09/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/hummingbird09/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hummingbird09/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hummingbird09/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hummingbird09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hummingbird09/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hummingbird09/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
