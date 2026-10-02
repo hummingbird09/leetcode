@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hummingbird09/leetcode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/hummingbird09/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hummingbird09/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hummingbird09/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hummingbird09/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/hummingbird09/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hummingbird09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hummingbird09/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hummingbird09/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
