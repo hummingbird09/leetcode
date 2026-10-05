@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hummingbird09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hummingbird09/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hummingbird09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hummingbird09/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hummingbird09/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hummingbird09/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/hummingbird09/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hummingbird09/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hummingbird09/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/hummingbird09/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/hummingbird09/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hummingbird09/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
