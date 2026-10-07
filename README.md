@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hummingbird09/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/hummingbird09/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/hummingbird09/leetcode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hummingbird09/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/hummingbird09/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hummingbird09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/hummingbird09/leetcode/tree/master/0509-fibonacci-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hummingbird09/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/hummingbird09/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hummingbird09/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hummingbird09/leetcode/tree/master/0229-majority-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hummingbird09/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
