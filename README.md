@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hummingbird09/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hummingbird09/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hummingbird09/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/hummingbird09/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/hummingbird09/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hummingbird09/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hummingbird09/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/hummingbird09/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Queue
 |  |
 | ------- |
