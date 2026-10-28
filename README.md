@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hummingbird09/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/hummingbird09/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hummingbird09/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/hummingbird09/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -146,16 +147,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hummingbird09/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hummingbird09/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hummingbird09/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hummingbird09/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/hummingbird09/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/hummingbird09/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/hummingbird09/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hummingbird09/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
