@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/hummingbird09/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hummingbird09/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hummingbird09/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2574-left-and-right-sum-differences](https://github.com/hummingbird09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hummingbird09/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hummingbird09/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/hummingbird09/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hummingbird09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/hummingbird09/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hummingbird09/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/hummingbird09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hummingbird09/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hummingbird09/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
