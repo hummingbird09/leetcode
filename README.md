@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hummingbird09/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/hummingbird09/leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/hummingbird09/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hummingbird09/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hummingbird09/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hummingbird09/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/hummingbird09/leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hummingbird09/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/hummingbird09/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/hummingbird09/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hummingbird09/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/hummingbird09/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/hummingbird09/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/hummingbird09/leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hummingbird09/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hummingbird09/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
